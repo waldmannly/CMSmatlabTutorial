@@ -1,0 +1,13 @@
+http://www-math.bgsu.edu/~zirbel/ap/
+
+https://www.mathworks.com/examples/matlab/category/mathematics
+
+https://www.math.wustl.edu/~feres/Math450Lect04.pdf
+
+
+gives info about a lot of functions that you can use in matlab
+https://www.cs.ubc.ca/~murphyk/Software/CRF/MatlabOptimizationToolbox.pdf
+
+
+this is not really matlab, but if you click on the modeling examples tab it will walk you through how to optimize and code up the listed problems. 
+http://www.gurobi.com/resources/examples/example-models-overview
